@@ -11,7 +11,7 @@ Computer Engineering student at **CHARUSAT** (Ahmedabad, India). I work on front
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**uselayouts**](https://uselayouts.com) | Animated React components & micro-interactions, installable via the shadcn CLI | Next.js · TypeScript · Tailwind · Motion |
+| [**uselayouts**](https://uselayouts.com) | Animated React components & micro-interactions, installable via the shadcn CLI. I added 9 components in [PR #44](https://github.com/iurvish/uselayouts/pull/44) | Next.js · TypeScript · Tailwind · Motion |
 | **Element to React** | Chrome/Edge extension: pick an element, get a React component with styles, hover states and animations | JavaScript · Chrome Extension APIs |
 | [**RecurveControl**](https://github.com/MorphuesI/RecurveControl) | Windows app that configures the Recurve 300 gaming mouse (DPI, RGB, polling rate) directly over USB HID | Python · hidapi · pywebview |
 | [**Snazzy Wealth**](https://github.com/MorphuesI/Snazzy-Wealth) | Personal finance planning web app | PHP · MySQL · JavaScript |
