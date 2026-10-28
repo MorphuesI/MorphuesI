@@ -4,6 +4,7 @@ Computer Engineering student at **CHARUSAT** (Ahmedabad, India). I work on front
 
 - 🧩 Frontend Developer & UI Designer on **[uselayouts](https://uselayouts.com)**, an open-source micro-interaction library for React (Vercel OSS Program)
 - 🛠️ Currently building **Element to React**, a browser extension that turns any element on a web page into a React component, with its states and animations
+- 🔐 Practicing web security in PortSwigger Web Security Academy labs (SQL injection, XSS, authentication and business-logic flaws) with Burp Suite
 - 🎯 Interested in motion design, AI/ML, and network security
 - 📫 [devaero0861@gmail.com](mailto:devaero0861@gmail.com)
 
@@ -33,3 +34,4 @@ Computer Engineering student at **CHARUSAT** (Ahmedabad, India). I work on front
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
